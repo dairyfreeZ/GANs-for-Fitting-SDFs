@@ -1,7 +1,7 @@
 # GANs-for-Fitting-SDFs
 Use GANs to learn the signed distance functions to a mesh  
 This program is still ongoing  
-Codes will be updated when I have time  
+Codes will be updated when I finished my paper  
 
 ## Partial Results
 * Experiment results on complex 2D SDFs  
