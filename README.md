@@ -10,3 +10,6 @@ Codes will be updated when the paper is submitted
 * Experiment results on complex triangle meshes  
   Left: NN | Right: Triangle mesh  
   <img src="https://drive.google.com/uc?id=1LSH8YU8u4BhsP7nwusLd4_-RyIakGW6A" width="600"> 
+* Experiment results on complex triangle meshes (Shaded)  
+  Left: Level-set | Right: NN  
+  <img src="https://drive.google.com/uc?id=1lDcW8ZOmODoHFUdTAORxV957YRnUjnYX" width="600"> 
